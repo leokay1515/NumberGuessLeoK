@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\bin\Debug\NumberGuessLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\bin\Debug\NumberGuessLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\bin\Debug\NumberGuessLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\obj\Debug\NumberGuessLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\obj\Debug\NumberGuessLeoK.frmNumberGuess.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\obj\Debug\NumberGuessLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\obj\Debug\NumberGuessLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\obj\Debug\NumberGuessLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\NumberGuessLeoK\NumberGuessLeoK\obj\Debug\NumberGuessLeoK.pdb
